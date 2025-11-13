@@ -43,7 +43,7 @@
             display-name = "Option/Command Tap Dance";
             tapping-term-ms = <400>;
             #binding-cells = <0>;
-            bindings = <&kp LEFT_GUI>, <&kp LEFT_ALT>;
+            bindings = <&kp LEFT_ALT>, <&kp LEFT_GUI>;
         };
     };
 
